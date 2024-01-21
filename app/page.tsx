@@ -24,7 +24,8 @@ const Home = async () => {
 
             <h1 className="head-text">
               Unleash the Power of
-              <span className="text-primary"> TrackPrice</span>
+              <span style={{ color: 'blue' }}> TrackPrice</span>
+
             </h1>
 
             <p className="mt-6">

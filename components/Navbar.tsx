@@ -20,7 +20,7 @@ const Navbar = () => {
           />
 
           <p className="nav-logo">
-            Track<span className='text-primary'>Price</span>
+            Track<span style={{ color: 'blue' }}>Price</span>
           </p>
         </Link>
 
